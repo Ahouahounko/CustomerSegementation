@@ -1,6 +1,7 @@
 # Customer Segmentation Project
 
-This project explores customer segmentation using clustering algorithms .
+This project explores customer segmentation using clustering algorithms.
+Youtube video link : https://youtu.be/TKjutKNKvWs
 
 ## Overview
 
@@ -28,7 +29,7 @@ Some visualization of clusters through t-SNE(2D/3D):
 
 ## Video Demo
 
-![Watch the video on Youtube ](https://youtu.be/TKjutKNKvWs)
+![Watch the video on Youtube](https://youtu.be/TKjutKNKvWs)
 
 
 ## Contributing
